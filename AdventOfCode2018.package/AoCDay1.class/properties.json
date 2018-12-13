@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AoCSolution",
+	"category" : "AdventOfCode2018",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AoCDay1",
+	"type" : "normal"
+}
